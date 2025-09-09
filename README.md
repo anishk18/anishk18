@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Vancouver%2C%20Canada-blue?style=flat-square&logo=google-maps" />
   <img src="https://img.shields.io/badge/Focus-Carbon%20Capture-green?style=flat-square&logo=leaflet" />
-  <img src="https://img.shields.io/github/followers/anishkarnik?label=Followers&style=social" />
 </p>
 
 ---
@@ -50,16 +49,6 @@ I’m a **Process Engineer at [Svante Inc.](https://www.svanteinc.com/)** workin
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blueviolet)  
 ![Sustainable Technology](https://img.shields.io/badge/-Sustainable%20Tech-green)
 
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishkarnik&show_icons=true&theme=tokyonight" alt="Anish's GitHub stats" />
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishkarnik&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
@@ -72,3 +61,4 @@ I’m a **Process Engineer at [Svante Inc.](https://www.svanteinc.com/)** workin
 ---
 
 💡 *“Engineering solutions for a sustainable future — one process at a time.”*
+
